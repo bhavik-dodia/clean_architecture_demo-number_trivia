@@ -1,0 +1,4 @@
+#Mon Apr 11 10:36:22 IST 2022
+base.0=/Users/bhavikdodia/Documents/Projects/number_trivia/build/app/intermediates/dex/developmentDebug/mergeDexDevelopmentDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

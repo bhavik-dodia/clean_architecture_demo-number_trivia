@@ -1,0 +1,32 @@
+name: number_trivia
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  bloc: ^8.0.3
+  dartz: ^0.10.1
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  get_it: ^7.2.0
+  http: ^0.13.4
+  internet_connection_checker: ^0.0.1+3
+  intl: ^0.17.0
+  shared_preferences: ^2.0.13
+
+dev_dependencies:
+  bloc_test: ^9.0.3
+  build_runner: ^2.1.8
+  flutter_lints: ^1.0.4
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.1.0
+
+flutter:
+  uses-material-design: true
+  generate: true
